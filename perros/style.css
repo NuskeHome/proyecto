@@ -1,0 +1,118 @@
+@charset "utf-8";
+.cuerpo .cabecera .logo {
+	background-color: #F18A08;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 44%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	clear: left;
+	float: left;
+}
+.cuerpo .cabecera .menu {
+	width: 20%;
+	overflow-x: visible;
+	overflow-y: visible;
+	clear: right;
+	height: 0%;
+	background-color: #F18A08;
+	text-decoration: none;
+	list-style-type: none;
+}
+.menu ul li a {
+	text-decoration: none;
+	color: #000000;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.menu ul li {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+
+.cuerpo .cabecera .slider {
+	width: 54%;
+	overflow-x: visible;
+	overflow-y: visible;
+	float: left;
+	background-color: #F18A08;
+	height: 210px;
+}
+
+.cuerpo {
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	background-color: #F18A08;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.slider p img {
+	margin-left: 564px;
+	width: 33%;
+	height: 18%;
+	margin-top: -22px;
+}
+.cuerpo .cuerpo p {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: 700;
+	text-align: left;
+	font-size: x-large;
+}
+.cuerpo p img {
+	width: 26%;
+}
+
+
+
+
+.cuerpo .cuerpo {
+	margin-left: 307px;
+	background-color: #FFFFFF;
+	margin-top: -205px;
+	margin-bottom: 26px;
+	margin-right: 0px;
+	padding-bottom: 200px;
+	width: 78%;
+}
+
+
+
+
+.cuerpo .cabecera .cuerpo {
+	float: left;
+	width: 76%;
+	padding-bottom: 0px;
+	margin-bottom: -238px;
+	height: 0px;
+
+}
+p .parallax img {
+	margin-left: 50px;
+}
+.cuerpo .cuerpo p {
+}
+
+
+
+.piedepagina {
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	clear: left;
+}
+.cuerpo p {
+}
+.cuerpo p img {
+    margin-left: 80px;
+}
+p .parallax img {
+}
+.slider p img {
+    padding-left: 516px;
+}
+ul li a {
+    font-size: x-large;
+}
